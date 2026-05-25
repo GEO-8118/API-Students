@@ -28,7 +28,7 @@ This project allows users to manage student records through CRUD operations (Cre
 
 ### 1. Clone the Repository
 
-git clone https://github.com/[your-username]/api-call.git
+git clone :https://github.com/GEO-8118/API-Students.git
 
 ### 2. Go to Project Directory
 
